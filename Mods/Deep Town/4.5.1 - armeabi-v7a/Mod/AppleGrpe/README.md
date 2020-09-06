@@ -25,7 +25,7 @@ You can also compress ~~or not I haven't tested to not compress it yet.~~ the fi
 1. Installed the original armeabi-v7a apk.
 2. Extracted the apk using ZArchiver
 3. Modded it with Acode ~~It supports Ctrl-F which is Find and also RegExp~~
-4. Used APK Editor Pro ~~It is now *not* on Play store, Download it [here](https://mega.nz/file/ueozARbJ#4xWT4sknpiUtn3th0QogY1NrT_pEIJ7go0_t5DZf1MA), or from [uptodown](https://apk-editor.en.uptodown.com/android).~~ to build, and sign.
+4. Used APK Editor Pro ~~It is now **not** on Play store, Download it [here](https://mega.nz/file/ueozARbJ#4xWT4sknpiUtn3th0QogY1NrT_pEIJ7go0_t5DZf1MA), or from [uptodown](https://apk-editor.en.uptodown.com/android).~~ to build, and sign.
 5. Installed using package installer. ~~If you don't have it, it's built-in to android. You already could have known to install it if you uninstalled it already.~~
 # Changelog:
 Mod | Modified Dictionary/XML | Modified File ~~In assets/json/~~
