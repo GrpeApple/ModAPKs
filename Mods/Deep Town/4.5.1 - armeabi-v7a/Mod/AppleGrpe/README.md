@@ -32,4 +32,5 @@ Mod | Modified Dictionary/XML(s) | Modified File ~~In assets/json/~~
 --- | ----------------------- | ---------------------------------
 Buildings instantly build. | `"deployTime":0` | `building_blueprints.json`
 Building instantly upgrade. | `"upgradeDuration":0` | `building_blueprints.json`
-Buildings can be purchased with any panel level. | `"unlockSegment":0\n"unlockSegment:"0"`
+Buildings can be purchased with any panel level. | ```"unlockSegment":0
+"unlockSegment:"0"```
