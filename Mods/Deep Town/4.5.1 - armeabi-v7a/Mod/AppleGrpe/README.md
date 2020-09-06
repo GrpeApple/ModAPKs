@@ -28,7 +28,8 @@ You can also compress ~~or not I haven't tested to not compress it yet.~~ the fi
 4. Used APK Editor Pro ~~It is now **not** on Play store, Download it [here](https://mega.nz/file/ueozARbJ#4xWT4sknpiUtn3th0QogY1NrT_pEIJ7go0_t5DZf1MA), or from [uptodown](https://apk-editor.en.uptodown.com/android).~~ to build, and sign.
 5. Installed using package installer. ~~If you don't have it, it's built-in to android. You already could have known to install it if you uninstalled it already.~~
 # Changelog:
-Mod | Modified Dictionary/XML | Modified File ~~In assets/json/~~
+Mod | Modified Dictionary/XML(s) | Modified File ~~In assets/json/~~
 --- | ----------------------- | ---------------------------------
 Buildings instantly build. | `"deployTime":0` | `building_blueprints.json`
 Building instantly upgrade. | `"upgradeDuration":0` | `building_blueprints.json`
+Buildings can be purchased with any panel level. | `"unlockSegment":0\n"unlockSegment:"0"`
